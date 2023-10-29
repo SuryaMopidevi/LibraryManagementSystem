@@ -6,7 +6,7 @@ import java.util.Properties;
 
 public class JDBC_Connection {
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "Akshayateegela2003";
+    private static final String PASSWORD = "mysql003";
     private static final String URL = "jdbc:mysql://localhost:3306/Project";
 
     public static Connection getConnection(){
